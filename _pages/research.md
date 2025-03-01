@@ -8,8 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Research Interests:
-======
+
 As a computational mathematician, my research focuses on the development and rigorous analysis of numerical algorithms. I specialize in designing efficient and robust methods for approximating solutions to partial differential equations (PDEs) or systems of PDEs. I am generally interested in the following research fields:
 
 * Multigrid methods
