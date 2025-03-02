@@ -18,6 +18,8 @@ As a computational mathematician, my research focuses on the development and rig
 * Discontinuous Galerkin methods
 * Fluid-structure interaction
 
+![Research Image](/images/mg.png)
+
 Research Projects:
 ======
 * Finite element methods and multigrid methods for optimal control problems.
