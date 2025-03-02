@@ -18,7 +18,12 @@ As a computational mathematician, my research focuses on the development and rig
 * Discontinuous Galerkin methods
 * Fluid-structure interaction
 
-![Research Image](/images/mg.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/mg.png" alt="Image 1" style="width: 30%;"/>
+  <img src="/images/mg.png" alt="Image 2" style="width: 30%;"/>
+  <img src="/images/mg.png" alt="Image 3" style="width: 30%;"/>
+</div>
+
 
 Research Projects:
 ======
