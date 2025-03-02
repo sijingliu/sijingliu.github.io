@@ -19,9 +19,18 @@ As a computational mathematician, my research focuses on the development and rig
 * Fluid-structure interaction
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/images/mg.png" alt="Image 1" style="width: 30%;"/>
-  <img src="/images/mg.png" alt="Image 2" style="width: 30%;"/>
-  <img src="/images/mg.png" alt="Image 3" style="width: 30%;"/>
+  <figure style="width: 30%; text-align: center;">
+    <img src="/images/mg.png" alt="Multigrid" style="width: 100%;"/>
+    <figcaption>Caption for Image 1</figcaption>
+  </figure>
+  <figure style="width: 30%; text-align: center;">
+    <img src="/images/mg.png" alt="Image 2" style="width: 100%;"/>
+    <figcaption>Caption for Image 2</figcaption>
+  </figure>
+  <figure style="width: 30%; text-align: center;">
+    <img src="/images/mg.png" alt="Image 3" style="width: 100%;"/>
+    <figcaption>Caption for Image 3</figcaption>
+  </figure>
 </div>
 
 
