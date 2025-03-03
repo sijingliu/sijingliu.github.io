@@ -10,8 +10,8 @@ author_profile: true
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
-    <img src="/images/icerm.jpg" alt="Research Image" style="width: 100%; max-width: 600px;"/>
-    <figcaption style="text-align: center; font-style: italic;">2024 Spring ICERM semester program "Numerical PDEs: Analysis, Algorithms, and Data Challenges" participants</figcaption>
+    <img src="/images/icerm.jpg" alt="Research Image" style="width: 130%; max-width: 600px;"/>
+    <figcaption style="text-align: center; font-style: italic;">2024 Spring ICERM semester program "<a href="https://icerm.brown.edu/program/semester_program/sp-s24" target="_blank">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a>" participants</figcaption>
   </figure>
 </div>
 
