@@ -11,6 +11,13 @@ I am currently a postdoctoral scholar at WPI. My research interests include nume
 
 A highlight about my research at ICERM has been posted at [NSF Math Institutes](https://mathinstitutes.org/highlights/a-second-order-correction-method-for-a-parabolic-parabolic-interface-problem).
 
+<div style="text-align: center;">
+  <figure style="display: inline-block; text-align: center;">
+    <img src="/images/liu2.jpg" alt="Research Image" style="width: 100%; max-width: 800px;"/>
+    <figcaption style="text-align: center; font-style: italic;">Me at ICERM, Brown University</figcaption>
+  </figure>
+</div>
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 Employment:
