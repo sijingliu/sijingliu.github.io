@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
-    <img src="/images/icerm.jpg" alt="Research Image" style="width: 130%; max-width: 600px;"/>
+    <img src="/images/icerm.jpg" alt="Research Image" style="width: 130%; max-width: 800px;"/>
     <figcaption style="text-align: center; font-style: italic;">2024 Spring ICERM semester program "<a href="https://icerm.brown.edu/program/semester_program/sp-s24" target="_blank">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a>" participants</figcaption>
   </figure>
 </div>
@@ -20,10 +20,10 @@ Invited Talks:
 ======
 
 * Convergence analysis of dual-wind discontinuous Galerkin methods for a convection-dominated problem.
-  * JMM 2025, Seattle, January 9, 2025.
+  * Joint Mathematics Meetings 2025, Seattle, January 9, 2025.
 
 * Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation.
-  * JMM 2025, Seattle, January 8, 2025.
+  * Joint Mathematics Meetings 2025, Seattle, January 8, 2025.
 
 * A Second-order Correction Method for Loosely Coupled Discretizations Applied to Parabolic-parabolic Interface Problems.
   * UMass Dartmouth CSCDR Seminar, November 6, 2024.
