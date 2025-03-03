@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
-    <img src="/images/icerm.jpg" alt="Research Image" style="width: 60%; max-width: 600px;"/>
+    <img src="/images/icerm.jpg" alt="Research Image" style="width: 100%; max-width: 600px;"/>
     <figcaption style="text-align: center; font-style: italic;">2024 Spring ICERM semester program "Numerical PDEs: Analysis, Algorithms, and Data Challenges" participants</figcaption>
   </figure>
 </div>
