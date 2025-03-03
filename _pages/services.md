@@ -14,7 +14,7 @@ author_profile: true
     <figcaption style="text-align: center; font-style: italic;">2024 Spring ICERM semester program "<a href="https://icerm.brown.edu/program/semester_program/sp-s24" target="_blank">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a>" participants</figcaption>
   </figure>
 </div> -->
-I have extensive experience teaching math courses and am enthusiastic about conveying mathematical knowledge to students. The following is a list of courses I have taught:
+
 
 
 Reviewer:
