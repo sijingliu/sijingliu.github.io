@@ -21,10 +21,9 @@ At WPI:
 ======
 
 * C Term 2025: MA 2051 Ordinary Differential Equations, Section 01.
-
 * B Term 2024: MA 1024 Calculus IV, Sections 01 and 04.
 
-Contributed Talks:
+At UConn:
 ======
 
 * Spring 2023: Math 3511 Numerical Analysis II, Sections 001 and 002.
