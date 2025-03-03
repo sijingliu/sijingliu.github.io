@@ -13,7 +13,7 @@ A highlight about my research at ICERM has been posted at [NSF Math Institutes](
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
-    <img src="/images/icerm1.jpg" alt="Research Image" style="width: 100%; max-width: 1000px;"/>
+    <img src="/images/icerm1.jpg" alt="Research Image" style="width: 70%; max-width: 1000px;"/>
     <figcaption style="text-align: center; font-style: italic;">Me at ICERM, Brown University</figcaption>
   </figure>
 </div>
