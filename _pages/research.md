@@ -13,10 +13,10 @@ As a computational mathematician, my research focuses on the development and rig
 
 * Multigrid methods
 * PDE-constrained optimization, optimal control problems
-* (Stabilized) finite element methods
+* (Stabilized) finite element methods, discontinuous Galerkin methods
 * Convection-dominated problems
-* Discontinuous Galerkin methods
 * Fluid-structure interaction
+* Scientific machine learning
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="width: 25%; text-align: center;">
