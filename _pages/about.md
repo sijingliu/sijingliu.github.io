@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral scholar at WPI. My research interests include numerical analysis, finite element methods, discontinuous Galerkin methods, multigrid methods, PDE-constrained optimization and fluid-structure interaction (FSI). 
 
-A highlight about my research at ICERM has been posted at [NSF Math Institutes](https://mathinstitutes.org/highlights/a-second-order-correction-method-for-a-parabolic-parabolic-interface-problem).
+A highlight about my research at [ICERM](https://icerm.brown.edu/), Brown University has been posted at [NSF Math Institutes](https://mathinstitutes.org/highlights/a-second-order-correction-method-for-a-parabolic-parabolic-interface-problem).
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
