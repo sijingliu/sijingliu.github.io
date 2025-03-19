@@ -11,33 +11,38 @@ author_profile: true
 
 As a computational mathematician, my research focuses on the development and rigorous analysis of numerical algorithms. I specialize in designing efficient and robust methods for approximating solutions to partial differential equations (PDEs) or systems of PDEs. I am generally interested in the following research fields:
 
-* Multigrid methods
-* PDE-constrained optimization, optimal control problems
-* (Stabilized) finite element methods, discontinuous Galerkin methods
-* Convection-dominated problems
-* Fluid-structure interaction
-* Scientific machine learning
-
-<div style="display: flex; justify-content: space-between;">
-  <figure style="width: 25%; text-align: center;">
-    <img src="/images/mg.png" alt="Image 1" style="width: 100%;"/>
-    <figcaption style="text-align: center;">Multigrid</figcaption>
-  </figure>
-  <figure style="width: 50%; text-align: center;">
-    <iframe src="/assets/plot.html" width="100%" height="400px" style="border: none;"></iframe>
-    <figcaption style="text-align: center;">Interactive Plotly Graph</figcaption>
-  </figure>
-  <figure style="width: 25%; text-align: center;">
-    <img src="/images/mg.png" alt="Image 3" style="width: 100%;"/>
-   <figcaption style="text-align: center;">Multigrid</figcaption>
-  </figure>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Multigrid methods</li>
+      <li>PDE-constrained optimization, optimal control problems</li>
+      <li>(Stabilized) finite element methods, discontinuous Galerkin methods</li>
+      <li>Convection-dominated problems</li>
+      <li>Fluid-structure interaction</li>
+      <li>Scientific machine learning</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <figure style="width: 80%;">
+      <img src="/images/mg.png" alt="Multigrid" style="width: 100%;" />
+      <figcaption>Multigrid</figcaption>
+    </figure>
+  </div>
 </div>
+
 
 
 Research Projects:
 ======
 * Finite element methods and multigrid methods for optimal control problems.
   * We have designed and analyzed new finite element methods (continuous Galerkin and Discontinuous Galerkin) and multigrid methods for elliptic optimal control problems (with pointwise state constraints). We are now particularly interested in designing finite element methods and multigrid methods for elliptic optimal control problems constrained by convection-diffusion-reaction equations (with pointwise state constraints), especially in the convection-dominated regime. 
+
+  <div style="display: flex; justify-content: center;">
+    <figure style="width: 50%; text-align: center;">
+      <iframe src="/assets/OptimalControlwithStateConstraints.html" width="100%" height="400px" style="border: none;"></iframe>
+      <figcaption>Interact with it!</figcaption>
+    </figure>
+  </div>
 
 * Fluid-Structure interaction problems.
   * We are also interested in fluid-structure interaction problems. These are multiphysics problem that consists of a fluid problem and a solid problem that interact with each other through an interface. We are particularly interested in Robin-Robin loosely coupled methods, as well as in designing new loosely coupled methods that exhibit higher convergence rates.
