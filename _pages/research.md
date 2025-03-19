@@ -25,7 +25,7 @@ As a computational mathematician, my research focuses on the development and rig
   <div style="flex: 0.25; text-align: center;">
     <figure style="width: 100%;">
       <img src="/images/mg.png" alt="Multigrid" style="width: 100%;" />
-      <figcaption>Multigrid</figcaption>
+      <figcaption style="text-align: center;">Multigrid</figcaption>
     </figure>
   </div>
 </div>
@@ -37,10 +37,11 @@ Research Projects:
 * Finite element methods and multigrid methods for optimal control problems.
   * We have designed and analyzed new finite element methods (continuous Galerkin and Discontinuous Galerkin) and multigrid methods for elliptic optimal control problems (with pointwise state constraints). We are now particularly interested in designing finite element methods and multigrid methods for elliptic optimal control problems constrained by convection-diffusion-reaction equations (with pointwise state constraints), especially in the convection-dominated regime. 
 
-  <div style="display: flex; justify-content: center;">
-    <figure style="width: 80%; text-align: center;">
+
+  <div style="display: flex; justify-content: flex-start;">
+    <figure style="width: 80%; text-align: left;">
       <iframe src="/assets/OptimalControlwithStateConstraints.html" width="100%" height="500px" style="border: none;"></iframe>
-      <figcaption>Interact with it!</figcaption>
+      <figcaption style="text-align: center;">Interact with it!</figcaption>
     </figure>
   </div>
 
