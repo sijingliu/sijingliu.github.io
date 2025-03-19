@@ -23,9 +23,9 @@ As a computational mathematician, my research focuses on the development and rig
     <img src="/images/mg.png" alt="Image 1" style="width: 100%;"/>
     <figcaption style="text-align: center;">Multigrid</figcaption>
   </figure>
-  <figure style="width: 25%; text-align: center;">
-    <img src="/images/mg.png" alt="Image 2" style="width: 100%;"/>
-    <figcaption style="text-align: center;">Multigrid</figcaption>
+  <figure style="width: 50%; text-align: center;">
+    <iframe src="/assets/plot.html" width="100%" height="400px" style="border: none;"></iframe>
+    <figcaption style="text-align: center;">Interactive Plotly Graph</figcaption>
   </figure>
   <figure style="width: 25%; text-align: center;">
     <img src="/images/mg.png" alt="Image 3" style="width: 100%;"/>
