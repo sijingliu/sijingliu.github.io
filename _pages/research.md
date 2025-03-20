@@ -38,13 +38,12 @@ Research Projects:
   * We have designed and analyzed new finite element methods (continuous Galerkin and Discontinuous Galerkin) and multigrid methods for elliptic optimal control problems (with pointwise state constraints). We are now particularly interested in designing finite element methods and multigrid methods for elliptic optimal control problems constrained by convection-diffusion-reaction equations (with pointwise state constraints), especially in the convection-dominated regime. 
 
 
-   <div style="display: flex; justify-content: center; gap: 20px;">
+   <div style="display: flex; justify-content: center; gap: 10px;">
     <figure style="width: 45%; text-align: center;">
-      <iframe src="/assets/OptimalControlwithStateConstraints.html" width="80%" height="350px" style="border: none;"></iframe>
-      <figcaption style="text-align: center;">The State</figcaption>
+      <iframe src="/assets/OptimalControlwithStateConstraints.html" width="48%" height="500px" style="border: none; transform: scale(1); transform-origin: top left;"></iframe>
     </figure>
     <figure style="width: 45%; text-align: center;">
-      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="80%" height="350px" style="border: none;"></iframe>
+      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="48%" height="500px" style="border: none; transform: scale(1); transform-origin: top left;"></iframe>
       <figcaption style="text-align: center;">The Control</figcaption>
     </figure>
   </div>
