@@ -40,11 +40,11 @@ Research Projects:
 
    <div style="display: flex; justify-content: center; gap: 10px;">
     <figure style="width: 45%; text-align: center;">
-      <iframe src="/assets/OptimalControlwithStateConstraints.html" width="500px" height="500px" style="border: none;"></iframe>
+      <iframe src="/assets/OptimalControlwithStateConstraints.html" width="500px" height="500px" style="border: none; aspect-ratio: 1 / 1;"></iframe>
       <figcaption style="text-align: center;">The State</figcaption>
     </figure>
     <figure style="width: 45%; text-align: center;">
-      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="500px" height="500px" style="border: none;"></iframe>
+      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="500px" height="500px" style="border: none; aspect-ratio: 1 / 1;"></iframe>
       <figcaption style="text-align: center;">The Control</figcaption>
     </figure>
   </div>
