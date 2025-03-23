@@ -49,13 +49,12 @@ Research Projects:
     </figure>
   </div> -->
 
-<div style="display: flex; justify-content: center;">
-    <figure style="width: 50%; text-align: center;">
-      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="100%" height="400px" style="border: none;"></iframe>
+<div style="display: flex; justify-content: flex-start;">
+    <figure style="width: 80%; text-align: left;">
+      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="100%" height="500px" style="border: none;"></iframe>
       <figcaption style="text-align: center;">The Control</figcaption>
     </figure>
   </div>
-
 
 * Fluid-Structure interaction problems.
   * We are also interested in fluid-structure interaction problems. These are multiphysics problem that consists of a fluid problem and a solid problem that interact with each other through an interface. We are particularly interested in Robin-Robin loosely coupled methods, as well as in designing new loosely coupled methods that exhibit higher convergence rates.
