@@ -43,8 +43,8 @@ Research Projects:
       <iframe src="/assets/OptimalControlwithStateConstraints.html" width="500px" height="500px" style="border: none;"></iframe>
       <figcaption style="text-align: center;">The State</figcaption>
     </figure> -->
-    <figure style="width: 50%; text-align: center;">
-      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="300px" height="300px" style="border: none;"></iframe>
+    <figure style="width: 100%; text-align: center;">
+      <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="100%" height="100%" style="border: none;"></iframe>
       <figcaption style="text-align: center;">The Control</figcaption>
     </figure>
   </div>
