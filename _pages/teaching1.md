@@ -20,6 +20,7 @@ I have extensive experience teaching math courses and am enthusiastic about conv
 At WPI:
 ======
 
+* D Term 2025: MA 1024 Calculus IV, Sections 07.
 * C Term 2025: MA 2051 Ordinary Differential Equations, Section 01.
 * B Term 2024: MA 1024 Calculus IV, Sections 01 and 04.
 

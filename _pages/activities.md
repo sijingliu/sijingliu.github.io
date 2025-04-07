@@ -15,6 +15,12 @@ author_profile: true
   </figure>
 </div>
 
+Special Sessions Organization:
+======
+
+* Special Session: Recent Advances in Numerical Methods for Partial Differential Equations.
+  * AMS 2025 Spring Eastern Sectional Meeting, Hartford, April 5-6, 2025.
+
 
 Invited Talks:
 ======
@@ -58,7 +64,7 @@ Contributed Talks:
 * Discontinuous Galerkin Methods for an Elliptic Optimal Control Problem with a General State Equation and Pointwise State Constraints.
   * Finite Element Circus Spring 2023, Bridgewater State University, March 17, 2023.
 * Multigrid Methods for an Optimal Control Problem based on Discontinuous Galerkin Methods.
- * Finite Element Circus Fall 2022, Carnegie Mellon University, October 21, 2022.
+  * Finite Element Circus Fall 2022, Carnegie Mellon University, October 21, 2022.
 * P1 Finite Element Methods for a General Elliptic Optimal Control Problem with Pointwise State Constraints.
   * Finite Element Circus Spring 2021 (Virtual), April 10, 2021.
 * Multigrid Methods for Elliptic Optimal Control Problems.
@@ -78,10 +84,10 @@ Conferences:
 
 [Finite Element Circus](https://sites.google.com/view/fecircus)
 
-* JMM 2025, Seattle, January 8, 2025
-* Finite Element Circus 2024 Fall, UMBC, October 18-19, 2024
+* JMM 2025, Seattle, January 8, 2025.
+* Finite Element Circus 2024 Fall, UMBC, October 18-19, 2024.
 * 9th Annual Meeting of the SIAM Central States Section
-University of Missouri-Kansas City, October 5-6, 2024
+University of Missouri-Kansas City, October 5-6, 2024.
 * Mathematical Models and Numerical Methods for Multiphysics Systems, University of Pittsburgh, May 1-3, 2024.
 * Finite Element Circus 2024 Spring, Brown University, April 19-20, 2024.
 * Finite Element Circus 2023 Spring, Bridgewater State University, March 17-18, 2023.
