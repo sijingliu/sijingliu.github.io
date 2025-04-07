@@ -12,9 +12,15 @@ author_profile: true
 Publications:
 ======
 
+Submitted:
+------
+
+* Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv preprint arXiv:2504.02072_ (2025).
+
+
 \* Corresponding Author
 
-* Sijing Liu\* and Valeria Simoncini, [Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation](https://doi.org/10.1007/s10915-024-02717-9).   _Journal of Scientific Computing (2024)_.
+* Sijing Liu\* and Valeria Simoncini, [Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation](https://doi.org/10.1007/s10915-024-02717-9).   _Journal of Scientific Computing_ (2024).
 * Erik Burman, Rebecca Durst, Miguel Fernandez, Johnny Guzman and Sijing Liu\*, [A second-order correction method for loosely coupled discretizations applied to parabolic-parabolic interface problems](https://doi.org/10.1093/imanum/drae075). _IMA Journal of Numerical Analysis_ (2024).
 * Satyajith Bommana Boyana, Thomas Lewis, Sijing Liu\* and Yi Zhang, [Convergence analysis of novel discontinuous Galerkin methods for a convection-dominated problem](https://doi.org/10.1016/j.camwa.2024.09.027). _Computers & Mathematics With Applications_ (2024).
 * Erik Burman, Rebecca Durst, Miguel Fernandez, Johnny Guzman and Sijing Liu\*, [Estimates of discrete time derivatives for the parabolic-parabolic Robin-Robin coupling method](https://link.springer.com/article/10.1007/s11075-024-01902-z). _Numerical Algorithms_ (2024).
