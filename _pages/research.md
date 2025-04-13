@@ -19,7 +19,7 @@ As a computational mathematician, my research focuses on the development and rig
       <li>(Stabilized) finite element methods, discontinuous Galerkin methods</li>
       <li>Convection-dominated problems</li>
       <li>Fluid-structure interaction</li>
-      <li>Scientific machine learning</li>
+      <!-- <li>Scientific machine learning</li> -->
     </ul>
   </div>
   <div style="flex: 0.25; text-align: center;">
