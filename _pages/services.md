@@ -27,6 +27,7 @@ Reviewer:
 * Applied Numerical Mathematics
 * Computers & Mathematics with Applications
 * Journal of Numerical Mathematics
+* Numerical Methods for Partial Differential Equations
 
 Other services:
 ======

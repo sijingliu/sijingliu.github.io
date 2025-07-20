@@ -14,6 +14,7 @@ author_profile: true
 Submitted:
 ======
 
+* Satyajith Bommana Boyana, Thomas Lewis, Sijing Liu and Yi Zhang, [Convergence Analysis of a Dual-Wind Discontinuous Galerkin Method for an Elliptic Optimal Control Problem with Control Constraints](https://arxiv.org/pdf/2506.12330). _arXiv preprint arXiv:2506.12330_ (2025).
 * Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv preprint arXiv:2504.02072_ (2025).
 
 
