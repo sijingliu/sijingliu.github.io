@@ -25,6 +25,8 @@ Special Sessions Organization:
 Invited Talks:
 ======
 
+* Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation.
+  * SIAM Texas-Louisiana Sectional Meeting 2025, Austin, September 27, 2025.
 * Convergence analysis of dual-wind discontinuous Galerkin methods for a convection-dominated problem.
   * Joint Mathematics Meetings 2025, Seattle, January 9, 2025.
 * Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation.
