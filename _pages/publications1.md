@@ -14,7 +14,7 @@ author_profile: true
 Submitted:
 ======
 
-1. Sijing Liu\* and Jinjin Zhang, [Convergence analysis of a balancing domain decomposition method for an elliptic optimal control problem with HDG discretizations](https://arxiv.org/abs/2508.13997). _arXiv preprint arXiv:2508.13997_ (2025).
+1. Sijing Liu and Jinjin Zhang, [Convergence analysis of a balancing domain decomposition method for an elliptic optimal control problem with HDG discretizations](https://arxiv.org/abs/2508.13997). _arXiv preprint arXiv:2508.13997_ (2025).
 1. Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv preprint arXiv:2504.02072_ (2025).
 
 
