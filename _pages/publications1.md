@@ -41,7 +41,7 @@ In preparation:
 * Discontinuous Galerkin methods for an elliptic optimal control problem with a convection-dominated state equation and pointwise state constraints.
 * (with SeongHee Jeong and Seulip Lee) EAFE methods for an elliptic optimal control problem with a convection-dominated state equation.
 * (with Maurice Fabien) A non-overlapping spectral additive Schwarz method for 
-interior penalty discontinuous Galerkin discretizations of Anisotropic Elliptic Problems
+interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems.
 
 
 
