@@ -77,7 +77,7 @@ Research Projects:
   * PINNs incorporate PDEs into the loss function of neural networks to solve PDEs. We are interested in using PINNs to solve a saddle-point formulation of an optimal control problem with convection-dominated state equations. To tackle this challenging problem, we exploit a recently developed two-scale neural network.
 <div style="display: flex; justify-content: center;">
     <figure style="width: 70%; text-align: center;">
-      <img src="/images/tnn.png" alt="Two-scale Neural Networks" style="width: 100%;" />
+      <img src="/images/tnn.pdf" alt="Two-scale Neural Networks" style="width: 100%;" />
       <figcaption style="text-align: center;">Two-scale Neural Networks</figcaption>
     </figure>
   </div>
