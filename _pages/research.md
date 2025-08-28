@@ -34,10 +34,13 @@ As a computational mathematician, my research focuses on the development and rig
 
 Research Projects:
 ======
-* Finite element methods and multigrid methods for optimal control problems.
+* Efficient numerical methods for optimal control problems.
   * We have designed and analyzed new finite element methods (continuous Galerkin and Discontinuous Galerkin) and multigrid methods for elliptic optimal control problems (with pointwise state constraints). We are now particularly interested in designing finite element methods and multigrid methods for elliptic optimal control problems constrained by convection-diffusion-reaction equations (with pointwise state constraints), especially in the convection-dominated regime. 
 
-
+  * We have investigated the following numerical methods:
+    * Discontinuous Galerkin methods
+    * Hybridizable discontinuous Galerkin methods
+    * Edge-averaged finite element methods
   <!--  <div style="display: flex; justify-content: center; gap: 10px;">
     <figure style="width: 45%; text-align: center;">
       <iframe src="/assets/OptimalControlwithStateConstraints.html" width="500px" height="500px" style="border: none;"></iframe>
@@ -62,7 +65,8 @@ Research Projects:
 * Dual-wind discontinuous Galerkin methods for convection-dominated problems.
   * Dual-wind discontinuous Galerkin (DWDG) methods are new discontinuous Galerkin (DG) methods that are derived from a DG differential calculus framework. This framework recovers existing DG methods and also advises construction of new DG methods.
 
-* BDDC preconditioner with Hybridizable discontinuous Galerkin methods (HDG) for optimal control problems
+* Physics-informed neural networks for optimal control problems with convection-dominated state equations.
+
  
   
 
