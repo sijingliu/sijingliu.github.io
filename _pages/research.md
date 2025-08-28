@@ -37,11 +37,11 @@ Research Projects:
 * Efficient numerical methods for optimal control problems.
   * We have designed and analyzed new finite element methods (continuous Galerkin and Discontinuous Galerkin) and multigrid methods for elliptic optimal control problems (with pointwise state constraints). We are now particularly interested in designing finite element methods and multigrid methods for elliptic optimal control problems constrained by convection-diffusion-reaction equations (with pointwise state constraints), especially in the convection-dominated regime. 
 
-  * We have investigated the following numerical methods:
+  * We have investigated the following numerical methods and their corresponding fast solvers:
     * Discontinuous Galerkin methods
     * Hybridizable discontinuous Galerkin methods
     * Edge-averaged finite element methods
-    
+
   <!--  <div style="display: flex; justify-content: center; gap: 10px;">
     <figure style="width: 45%; text-align: center;">
       <iframe src="/assets/OptimalControlwithStateConstraints.html" width="500px" height="500px" style="border: none;"></iframe>
@@ -62,6 +62,13 @@ Research Projects:
 
 * Fluid-Structure interaction problems.
   * We are also interested in fluid-structure interaction problems. These are multiphysics problem that consists of a fluid problem and a solid problem that interact with each other through an interface. We are particularly interested in Robin-Robin loosely coupled methods, as well as in designing new loosely coupled methods that exhibit higher convergence rates.
+
+  <div style="display: flex; justify-content: center;">
+    <figure style="width: 70%; text-align: center;">
+      <img src="/images/fsi.png" alt="Fluid-Structure Interaction" style="width: 100%;" />
+      <figcaption style="text-align: center;">Robin-Robin loosely coupling</figcaption>
+    </figure>
+  </div>
 
 * Dual-wind discontinuous Galerkin methods for convection-dominated problems.
   * Dual-wind discontinuous Galerkin (DWDG) methods are new discontinuous Galerkin (DG) methods that are derived from a DG differential calculus framework. This framework recovers existing DG methods and also advises construction of new DG methods.
