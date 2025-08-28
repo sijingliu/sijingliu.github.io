@@ -73,7 +73,8 @@ Research Projects:
 * Dual-wind discontinuous Galerkin methods for convection-dominated problems.
   * Dual-wind discontinuous Galerkin (DWDG) methods are new discontinuous Galerkin (DG) methods that are derived from a DG differential calculus framework. This framework recovers existing DG methods and also advises construction of new DG methods.
 
-* Physics-informed neural networks for optimal control problems with convection-dominated state equations.
+* Physics-informed neural networks (PINNs) for optimal control problems with convection-dominated state equations.
+  * PINNs incorporate PDEs into the loss function of neural networks to solve PDEs. We are interested in using PINNs to solve a saddle-point formulation of an optimal control problem with convection-dominated state equations. To tackle this challenging problem, we exploit a recently developed two-scale neural network.
 
  
   
