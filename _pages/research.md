@@ -56,7 +56,7 @@ Research Projects:
 <div style="display: flex; justify-content: flex-start;">
     <figure style="width: 80%; text-align: left;">
       <iframe src="/assets/OptimalControlwithStateConstraints1.html" width="100%" height="500px" style="border: none;"></iframe>
-      <figcaption style="text-align: center;">The Control</figcaption>
+      <!-- <figcaption style="text-align: center;">The Control</figcaption> -->
     </figure>
   </div>
 
@@ -66,7 +66,7 @@ Research Projects:
   <div style="display: flex; justify-content: center;">
     <figure style="width: 70%; text-align: center;">
       <img src="/images/fsi.png" alt="Fluid-Structure Interaction" style="width: 100%;" />
-      <figcaption style="text-align: center;">Robin-Robin loosely coupling</figcaption>
+      <!-- <figcaption style="text-align: center;">Robin-Robin loosely coupling</figcaption> -->
     </figure>
   </div>
 
@@ -78,7 +78,7 @@ Research Projects:
 <div style="display: flex; justify-content: center;">
     <figure style="width: 70%; text-align: center;">
       <img src="/images/tnn.png" alt="Two-scale Neural Networks" style="width: 60%;" />
-      <figcaption style="text-align: center;">Two-scale Neural Networks</figcaption>
+      <!-- <figcaption style="text-align: center;">Two-scale Neural Networks</figcaption> -->
     </figure>
   </div>
  
