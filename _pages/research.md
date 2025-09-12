@@ -76,10 +76,11 @@ Research Projects:
 * Physics-informed neural networks (PINNs) for optimal control problems with convection-dominated state equations.
   * PINNs incorporate PDEs into the loss function of neural networks to solve PDEs. We are interested in using PINNs to solve a saddle-point formulation of an optimal control problem with convection-dominated state equations. To tackle this challenging problem, we exploit a recently developed two-scale neural network.
 <div style="display: flex; justify-content: center;">
-  <figure style="width: 70%; text-align: center;">
-    <img src="/images/tnn.png" alt="Two-scale Neural Networks" 
-         style="width: 60%; display: block; margin: 0 auto;" />
-    <figcaption style="text-align: center;">Two-scale Neural Networks</figcaption>
+  <figure style="text-align: center;">
+    <div style="width: 60%; margin: 0 auto;">
+      <img src="/images/tnn.png" alt="Two-scale Neural Networks" style="width: 100%;" />
+      <figcaption>Two-scale Neural Networks</figcaption>
+    </div>
   </figure>
 </div>
 
