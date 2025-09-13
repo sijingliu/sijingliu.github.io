@@ -20,7 +20,11 @@ I have extensive experience teaching math courses and am enthusiastic about conv
 At WPI:
 ======
 
-* D Term 2025: MA 1024 Calculus IV, Sections 07.
+* D Term 2026: MA 2051 Ordinary Differential Equations, Section 01.
+* C Term 2026: CS 4032 Numerical Methods For Linear And Nonlinear Systems, Section 02.
+* B Term 2025: MA 1024 Calculus IV, Section 07.
+* A Term 2025: MA 4222 Top Algorithms in Applied Mathematics, Section 01.
+* D Term 2025: MA 1024 Calculus IV, Section 07.
 * C Term 2025: MA 2051 Ordinary Differential Equations, Section 01.
 * B Term 2024: MA 1024 Calculus IV, Sections 01 and 04.
 
