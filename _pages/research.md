@@ -77,12 +77,12 @@ Research Projects:
 
   <figure style="text-align: center; width: 30%;">
     <img src="/images/ex6.2p109.png" alt="Figure 1" style="width: 100%; display: block; margin: 0 auto;" />
-    <figcaption style="text-align: center;">DWDG solution</figcaption>
+    <figcaption style="text-align: center;">Exact solution</figcaption>
   </figure>
 
   <figure style="text-align: center; width: 30%;">
     <img src="/images/ex6.2ph109.png" alt="Figure 2" style="width: 100%; display: block; margin: 0 auto;" />
-    <figcaption style="text-align: center;">Exact solution</figcaption>
+    <figcaption style="text-align: center;">DWDG solution</figcaption>
   </figure>
 
 </div>
