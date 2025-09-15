@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scholar at WPI. My research interests include numerical analysis, finite element methods, discontinuous Galerkin methods, multigrid methods, PDE-constrained optimization and fluid-structure interaction (FSI). 
+I am currently a postdoctoral scholar at WPI. My research interests include numerical analysis, finite element methods, discontinuous Galerkin methods, multigrid methods, PDE-constrained optimization, fluid-structure interaction (FSI) and scientific machine learning.
 
 A highlight about my research at [ICERM](https://icerm.brown.edu/), Brown University has been posted at [NSF Math Institutes](https://mathinstitutes.org/highlights/a-second-order-correction-method-for-a-parabolic-parabolic-interface-problem).
 
