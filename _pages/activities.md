@@ -142,7 +142,7 @@ Workshops:
          alt="Research Image 2" 
          style="width: 100%; height: 250px; object-fit: cover;" />
     <figcaption style="font-style: italic; text-align: center;">
-      Caption for the second image
+      Our team at the IMA Math-to-Industry Bootcamp 2019
     </figcaption>
   </figure>
 </div>
