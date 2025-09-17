@@ -126,16 +126,23 @@ Workshops:
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="flex: 1; max-width: 400px;">
-    <img src="/images/icerm_postdoc.jpg" alt="Research Image 1" style="width: 100%; height: auto;" />
+    <img src="/images/icerm.jpg" 
+         alt="Research Image 1" 
+         style="width: 100%; height: 250px; object-fit: cover;" />
     <figcaption style="font-style: italic; text-align: center;">
-      Graduate students and postdocs at ICERM spring 2024
+      2024 Spring ICERM semester program 
+      "<a href="https://icerm.brown.edu/program/semester_program/sp-s24" target="_blank">
+        Numerical PDEs: Analysis, Algorithms, and Data Challenges
+      </a>" participants
     </figcaption>
   </figure>
 
   <figure style="flex: 1; max-width: 400px;">
-    <img src="/images/cargill.png" alt="Research Image 2" style="width: 100%; height: auto;" />
+    <img src="/images/cargill.png" 
+         alt="Research Image 2" 
+         style="width: 100%; height: 250px; object-fit: cover;" />
     <figcaption style="font-style: italic; text-align: center;">
-      Our team at the IMA Math-to-Industry Bootcamp 2019
+      Caption for the second image
     </figcaption>
   </figure>
 </div>
