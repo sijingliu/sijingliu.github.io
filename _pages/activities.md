@@ -133,7 +133,7 @@ Workshops:
   </figure>
 
   <figure style="flex: 1; max-width: 400px;">
-    <img src="/images/cargill.jpg" alt="Research Image 2" style="width: 100%; height: auto;" />
+    <img src="/images/cargill.png" alt="Research Image 2" style="width: 100%; height: auto;" />
     <figcaption style="font-style: italic; text-align: center;">
       Our team at the IMA Math-to-Industry Bootcamp 2019
     </figcaption>
