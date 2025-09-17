@@ -147,6 +147,8 @@ Workshops:
   </figure>
 </div>
 
+* From Modeling to Learning with HPC, ICERM, Brown University, September 13-14, 2025
+* Computational Learning for Model Reduction, ICERM, Brown University, January 6-10, 2025
 * Nonlocality: Challenges in Modeling and Simulation, ICERM, Brown University, April 15-19, 2024.
 * PDEs and Geometry: Numerical Aspects, ICERM, Brown University, March 11-15, 2024.
 * Numerical Analysis of Multiphysics Problems, ICERM, Brown University, February 12-26, 2024.
