@@ -123,6 +123,23 @@ University of Missouri-Kansas City, October 5-6, 2024.
 
 Workshops:
 ======
+
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure style="flex: 1; max-width: 400px;">
+    <img src="/images/icerm_postdoc.jpg" alt="Research Image 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-style: italic; text-align: center;">
+      Graduate students and postdocs at ICERM spring 2024
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1; max-width: 400px;">
+    <img src="/images/cargill.jpg" alt="Research Image 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-style: italic; text-align: center;">
+      Our team at the IMA Math-to-Industry Bootcamp 2019
+    </figcaption>
+  </figure>
+</div>
+
 * Nonlocality: Challenges in Modeling and Simulation, ICERM, Brown University, April 15-19, 2024.
 * PDEs and Geometry: Numerical Aspects, ICERM, Brown University, March 11-15, 2024.
 * Numerical Analysis of Multiphysics Problems, ICERM, Brown University, February 12-26, 2024.
