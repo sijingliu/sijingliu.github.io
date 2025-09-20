@@ -11,7 +11,7 @@ I am currently a postdoctoral scholar at WPI. My research interests include nume
 
 A highlight about my research at [ICERM](https://icerm.brown.edu/), Brown University has been posted at [NSF Math Institutes](https://mathinstitutes.org/highlights/a-second-order-correction-method-for-a-parabolic-parabolic-interface-problem).
 
-You can download my CV [here](assets/CV.pdf) (updated September 2025).
+My CV can be found [here](assets/CV.pdf) (updated September 2025).
 
 <div style="text-align: center;">
   <figure style="display: inline-block; text-align: center;">
