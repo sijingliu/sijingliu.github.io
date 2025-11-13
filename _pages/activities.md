@@ -60,7 +60,7 @@ Contributed Talks:
 * Dual-Wind Discontinuous Galerkin Methods for an
 Elliptic Optimal Control Problem with a
 Convection-dominated State Equation.
- * Finite Element Circus Fall 2025, George Mason University, October 18, 2025
+  * Finite Element Circus Fall 2025, George Mason University, October 18, 2025
 * Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation.
   * Finite Element Circus Fall 2024, UMBC, October 19, 2024.
 * A Second-order Correction Method for Loosely Coupled Discretizations Applied to Parabolic-parabolic Interface Problems.
