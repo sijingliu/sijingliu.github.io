@@ -18,7 +18,9 @@ author_profile: true
 Special Sessions Organization:
 ======
 
-* Special Session: Recent Advances in Numerical Methods for Partial Differential Equations.
+* Special Session: Recent Advances in Numerical Methods for Partial Differential Equations and Machine Learning (with Maurice S. Fabien).
+  * AMS 2026 Spring Eastern Sectional Meeting, Boston College, March 28-29, 2026.
+* Special Session: Recent Advances in Numerical Methods for Partial Differential Equations (with Yi Zhang).
   * AMS 2025 Spring Eastern Sectional Meeting, Hartford, April 5-6, 2025.
 
 
