@@ -40,9 +40,7 @@ In preparation:
 * (with Erik Burman, Miguel Fernandez and Johnny Guzman) Defect-correction methods for wave-parabolic interface problems.
 * (with Yi Zhang) DWDG methods for an optimal control problem with a convection-dominated state equation.
 * Discontinuous Galerkin methods for an elliptic optimal control problem with a convection-dominated state equation and pointwise state constraints.
-* (with SeongHee Jeong and Seulip Lee) EAFE methods for an elliptic optimal control problem with a convection-dominated state equation.
-* (with Maurice Fabien) A non-overlapping spectral additive Schwarz method for 
-interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems.
+* (with Maurice Fabien) A non-overlapping spectral additive Schwarz method for interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems.
 
 
 
