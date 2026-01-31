@@ -92,8 +92,11 @@ Conferences:
 
 [Finite Element Circus](https://sites.google.com/view/fecircus)
 
+* Finite Element Circus 2026 Spring, Tufts University, April 24-25, 2026.
+* AMS 2026 Spring Eastern Sectional Meeting, Boston College, March 28-29, 2026.
 * Finite Element Circus 2025 Fall, George Mason University, October 17-18, 2025.
 * SIAM Texas-Louisiana Sectional Meeting 2025, Austin, September 26-27, 2025.
+* AMS 2025 Spring Eastern Sectional Meeting, Hartford, April 5-6, 2025.
 * JMM 2025, Seattle, January 8, 2025.
 * Finite Element Circus 2024 Fall, UMBC, October 18-19, 2024.
 * 9th Annual Meeting of the SIAM Central States Section
