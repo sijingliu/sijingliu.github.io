@@ -17,15 +17,16 @@ Submitted:
 1. SeongHee Jeong, Seulip Lee and Sijing Liu. [A monotone finite element method for an elliptic distributed optimal control problem with a convection-dominated state equation](https://arxiv.org/abs/2510.27167). _arXiv:2510.27167v2_ (2025).
 1. Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv preprint arXiv:2504.02072_ (2025).
 
-Accepted:
+<!-- Accepted:
 ======
 
 1. Sijing Liu and Jinjin Zhang, [Convergence analysis of a balancing domain decomposition method for an elliptic optimal control problem with HDG discretizations](https://arxiv.org/abs/2508.13997). _ESAIM: Mathematical Modelling and Numerical Analysis_ (2025).
-
+ -->
 
 Publications:
 ======
 
+1. Sijing Liu and Jinjin Zhang, [Convergence analysis of a balancing domain decomposition method for an elliptic optimal control problem with HDG discretizations](https://www.esaim-m2an.org/articles/m2an/pdf/2026/02/m2an250267.pdf). _ESAIM: Mathematical Modelling and Numerical Analysis_ (2026).
 1. Satyajith Bommana Boyana, Thomas Lewis, Sijing Liu and Yi Zhang, [Convergence Analysis of a Dual-Wind Discontinuous Galerkin Method for an Elliptic Optimal Control Problem with Control Constraints](https://doi.org/10.1016/j.rinam.2025.100624). _Results in Applied Mathematics_ (2025).
 1. Sijing Liu\* and Valeria Simoncini, [Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation](https://doi.org/10.1007/s10915-024-02717-9).   _Journal of Scientific Computing_ (2024).
 1. Erik Burman, Rebecca Durst, Miguel Fernandez, Johnny Guzman and Sijing Liu\*, [A second-order correction method for loosely coupled discretizations applied to parabolic-parabolic interface problems](https://doi.org/10.1093/imanum/drae075). _IMA Journal of Numerical Analysis_ (2024).
