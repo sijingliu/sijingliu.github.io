@@ -14,8 +14,10 @@ author_profile: true
 Submitted:
 ======
 
+1. Marcus S. Fabien, Sijing Liu and Marcus Sarkis[A nonoverlapping spectral additive Schwarz method for interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems] (2026).
+
 1. Sijing Liu\*, Marcus Sarkis, Yi Zhang and Zhongqiang Zhang. [Two-scale neural networks for optimal control of linear convection-dominated equations](https://arxiv.org/abs/2605.17740). _arXiv:2605.17740_ (2026).
-1. SeongHee Jeong, Seulip Lee and Sijing Liu. [A monotone finite element method for an elliptic distributed optimal control problem with a convection-dominated state equation](https://arxiv.org/abs/2510.27167). _arXiv:2510.27167v2_ (2025).
+
 1. Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv preprint arXiv:2504.02072_ (2025).
 
 <!-- Accepted:
@@ -27,6 +29,7 @@ Submitted:
 Publications:
 ======
 
+1. SeongHee Jeong, Seulip Lee and Sijing Liu. [A monotone finite element method for an elliptic distributed optimal control problem with a convection-dominated state equation](https://www.sciencedirect.com/science/article/abs/pii/S0377042726006011). _Journal of Computational and Applied Mathematics_ (2026).
 1. Sijing Liu and Jinjin Zhang, [Convergence analysis of a balancing domain decomposition method for an elliptic optimal control problem with HDG discretizations](https://www.esaim-m2an.org/articles/m2an/pdf/2026/02/m2an250267.pdf). _ESAIM: Mathematical Modelling and Numerical Analysis_ (2026).
 1. Satyajith Bommana Boyana, Thomas Lewis, Sijing Liu and Yi Zhang, [Convergence Analysis of a Dual-Wind Discontinuous Galerkin Method for an Elliptic Optimal Control Problem with Control Constraints](https://doi.org/10.1016/j.rinam.2025.100624). _Results in Applied Mathematics_ (2025).
 1. Sijing Liu\* and Valeria Simoncini, [Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation](https://doi.org/10.1007/s10915-024-02717-9).   _Journal of Scientific Computing_ (2024).
@@ -46,7 +49,8 @@ In preparation:
 * (with Erik Burman, Miguel Fernandez and Johnny Guzman) Defect-correction methods for wave-parabolic interface problems.
 * (with Yi Zhang) DWDG methods for an optimal control problem with a convection-dominated state equation.
 * Discontinuous Galerkin methods for an elliptic optimal control problem with a convection-dominated state equation and pointwise state constraints.
-* (with Maurice Fabien) A non-overlapping spectral additive Schwarz method for interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems.
+
+
 
 
 
