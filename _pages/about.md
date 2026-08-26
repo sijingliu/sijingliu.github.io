@@ -32,6 +32,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
   
 * Worcester Polytechnic Institute
   * Postdoctoral Scholar, 08/24-07/26
+  * Affiliate Research Scientist, 08/26-11/26
 
 * Brown University, [ICERM](https://icerm.brown.edu/)
   * Institute Postdoc Fellow, 08/23-06/24
