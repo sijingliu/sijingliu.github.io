@@ -17,6 +17,13 @@ author_profile: true
 I have extensive experience teaching math courses and am enthusiastic about conveying mathematical knowledge to students. The following is a list of courses I have taught:
 
 
+At SUNY Poly:
+======
+
+* Fall 2026: MAT 260 Ordinary Differential Equations
+* Fall 2026: MAT 515/MAT 490 Mathematical Methods in
+Computational Science and Engineering
+
 At WPI:
 ======
 
