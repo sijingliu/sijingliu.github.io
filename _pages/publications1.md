@@ -14,11 +14,11 @@ author_profile: true
 Submitted:
 ======
 
-1. Maurice S. Fabien, Sijing Liu and Marcus Sarkis. A nonoverlapping spectral additive Schwarz method for interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems. (2026).
+1. Maurice S. Fabien, Sijing Liu and Marcus Sarkis. [A nonoverlapping spectral additive Schwarz method for interior penalty discontinuous Galerkin discretizations of anisotropic elliptic problems](https://arxiv.org/abs/2609.30639). _arXiv:2609.30639_ (2026).
 
 1. Sijing Liu\*, Marcus Sarkis, Yi Zhang and Zhongqiang Zhang. [Two-scale neural networks for optimal control of linear convection-dominated equations](https://arxiv.org/abs/2605.17740). _arXiv:2605.17740_ (2026).
 
-1. Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv preprint arXiv:2504.02072_ (2025).
+1. Sijing Liu\* and Jinjin Zhang, [A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem](https://arxiv.org/pdf/2504.02072). _arXiv:2504.02072_ (2025).
 
 <!-- Accepted:
 ======
